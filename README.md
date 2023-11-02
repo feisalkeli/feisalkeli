@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Feisal Keli</h1>
 <h3 align="center">A passionate frontend developer from Nairobi,Kenya</h3>
 
-- 🔭 I’m currently working on **React-Teams-Application**
+- 🔭 I’m currently working on **Angular e-commerce website**
 
-- 🌱 I’m currently learning **Next.js,Tailwindcss,ReactNative**
+- 🌱 I’m currently learning **Next.js,Angular,ReactNative**
 
 - 💬 Ask me about **React**
 
