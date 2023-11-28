@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Feisal Keli</h1>
 <h3 align="center">A passionate frontend developer from Nairobi,Kenya</h3>
 
-- 🔭 I’m currently working on **Angular e-commerce website**
+- 🔭 I’m currently working on **Chat Application Using Firebase **
 
-- 🌱 I’m currently learning **Next.js,Angular,ReactNative**
+- 🌱 I’m currently learning **Next.js,AWS,ReactNative**
 
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **migofeisal@gmail.com**
 
-- ⚡ Fun fact **Chess Amateur**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
