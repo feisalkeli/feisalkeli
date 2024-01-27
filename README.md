@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Feisal Keli</h1>
-<h3 align="center">A passionate frontend developer from Nairobi,Kenya</h3>
+<h3 align="center">A passionate Mobile and Webdeveloper from Nairobi,Kenya</h3>
 
-- 🔭 I’m currently working on **Chat Application Using Firebase **
 
 - 🌱 I’m currently learning **Next.js,AWS,ReactNative**
 
