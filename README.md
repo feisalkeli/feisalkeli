@@ -2,15 +2,12 @@
 <h3 align="center">A passionate Mobile and Webdeveloper from Nairobi,Kenya</h3>
 
 
-- 🌱 I’m currently learning **Next.js,AWS,ReactNative**
-
-- 💬 Ask me about **React**
 
 - 📫 How to reach me **migofeisal@gmail.com**
 
   
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
